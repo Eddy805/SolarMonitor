@@ -1,6 +1,8 @@
 # SolarMonitor
 Monitor solar system
 
+test: :tokyo_tower: 
+
 Arduino monitors:
 * Battery voltage
 * Battery current (charge/discharge)
